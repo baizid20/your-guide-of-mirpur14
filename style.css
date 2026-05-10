@@ -87,7 +87,6 @@
     justify-content: center;
     /* border: 1px solid red; */
     margin: 120px 0px;
-    border-bottom: 10px solid #DFF1F1;
     
 }
 .card-container{
@@ -113,7 +112,7 @@
     
 }
 .guide-card-img{
-    border: 10px solid skyblue;
+    border: 10px solid lightcyan;
     width: 200px ;
     height: 200px ;
     margin: 50px auto;
